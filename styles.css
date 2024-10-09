@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    background-color: black;
+}
+h1{
+    color: #f4f4f4;
+    font-size: 2.50cm;
+}
+
+.parallax {
+    /* Imagen de fondo */
+    background-image: url('descarga.jpeg');
+
+    /* Crear el efecto de parallax */
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    height: 100vh;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 3rem;
+}
+
+.content p {
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+.card-container {
+    display: flex;
+    gap: 40px; /* Separación entre las tarjetas */
+}
+
+.card {
+    width: 250px; /* Más grande */
+    height: 450px; /* Más alto */
+    perspective: 1000px;
+}
+
+.card-content {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s;
+    transform-style: preserve-3d;
+}
+
+.card-content:hover {
+    transform: rotateY(15deg) rotateX(10deg);
+}
+
+h3 {
+    margin-bottom: 15px;
+    font-size: 1.8rem; /* Título más grande */
+}
+
+p {
+    font-size: 1.1rem; /* Texto más grande */
+    color: #333;
+}
+
+.solar-system {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+
+.star {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    background-color: #f4e542; /* Color brillante de estrella */
+    border-radius: 50%;
+    box-shadow: 0 0 20px 10px #f4e542;
+}
+
+.orbit {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 1px dashed rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    transform-origin: center center;
+}
+
+.orbit1 {
+    width: 150px;
+    height: 150px;
+    animation: rotate 10s linear infinite;
+}
+
+.orbit2 {
+    width: 250px;
+    height: 250px;
+    animation: rotate 15s linear infinite reverse;
+}
+
+.orbit3 {
+    width: 350px;
+    height: 350px;
+    animation: rotate 20s linear infinite;
+}
+
+.planet {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+}
+
+.planet1 {
+    width: 20px;
+    height: 20px;
+    background-color: #6db2f7; /* Exoplaneta azul */
+}
+
+.planet2 {
+    width: 30px;
+    height: 30px;
+    background-color: #f76260; /* Exoplaneta rojo */
+}
+
+.planet3 {
+    width: 25px;
+    height: 25px;
+    background-color: #7bf762; /* Exoplaneta verde */
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Estilos del Exoplaneta y su menú */
+#exoplanet-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+#menu {
+    background-color: rgba(32, 31, 31, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+}
+#exoplanet-container h3{
+    color: #ffd700;
+}
+#exoplanet-container button{
+    background-color: #ffd700;
+    color: #1a1a1a;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+    transition: background 0.3s;
+}
+#exoplanet-container label {
+    margin-top: 10px;
+    display: block;
+}
+
+#exoplanet-container input[type="color"],
+#exoplanet-container input[type="text"] {
+    width: calc(100% - 10px);
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+}
+
+canvas {
+    background-color: #000;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+#TI{
+    color: #f4f4f4;
+    text-align: center;
+    font-size: 1.5cm;
+    padding-top: 1.5cm;
+    padding-bottom: 2cm;
+}
+#presentacion{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+#dis{
+    width: 15cm;
+    height: auto;
+    align-self: center;
+    padding-top: 10cm;
+}
+nav{
+    position: absolute; /* O 'fixed' si quieres que permanezca en su posición al hacer scroll */
+    top: 0;    /* Lo coloca en la parte superior */
+    right: 1.5cm;  /* Lo coloca en la parte derecha */
+    padding-top: 35px;
+    display: flex;
+    gap: 20px;
+}
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+}
+footer{
+    padding-top: 2cm;
+    height: 20cm;
+}

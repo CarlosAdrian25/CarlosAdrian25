@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efecto Parallax</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>
+                EXOPLANETAS</h1>
+        </div>
+        <nav>
+             <a href="#como">¿COMO ENCONTRARLOS?</a>
+             <a href="#TI">CREA TU PROPIO EXOPLANETA</a>
+        </nav>
+    </header>
+    <div class="parallax">
+        <div id="dis">
+            <p id="presentacion">
+                "Un exoplaneta es un planeta que está fuera de nuestro sistema solar, es decir, no gira alrededor de nuestro Sol. Es como un planeta de otro "vecindario" en el espacio. Algunos de estos planetas podrían ser parecidos a la Tierra, y los científicos los estudian para ver si podrían tener agua o vida. ¡Es como buscar mundos secretos entre las estrellas!"
+            </p>
+        </div>
+    </div>
+    
+    <div class="content" id="como">
+        <div class="card-container">
+            <div class="card">
+                <div class="card-content">
+                    <h3>MÉTODO DE TRANSITO</h3>
+                    <p>Para encontrar exoplanetas, los científicos usan telescopios muy potentes que miran las estrellas. 
+                        A veces, si un exoplaneta pasa frente a su estrella, esa estrella se ve un poquito menos brillante, como
+                        si alguien pusiera un dedo frente a una lámpara. A este truco le llaman "método de tránsito"
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>LENTE GRAVITACIONAL</h3>
+                    <p>Otra forma de encontrar exoplanetas es mirando cómo la luz de una estrella se dobla. Cuando un exoplaneta <br>
+                        pasa cerca de una estrella, su gravedad hace que la luz se curve, como cuando miras a través de una lupa. <br>
+                        Este truco se llama "lente gravitacional"
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>IMAGENES DIRECTAS</h3>
+                    <p>Los telescopios espaciales pueden detectar la luz infrarroja, que es el calor que emiten los planetas. Aunque las estrellas son muy brillantes y pueden ocultar a los planetas, los telescopios usan filtros especiales para bloquear la luz de la estrella y ver solo el calor del exoplaneta.
+                    </p>
+                </div>
+            </div>
+
+            <div class="solar-system">
+                <div class="star"></div>
+                <div class="orbit orbit1">
+                    <div class="planet planet1"></div>
+                </div>
+                <div class="orbit orbit2">
+                    <div class="planet planet2"></div>
+                </div>
+                <div class="orbit orbit3">
+                    <div class="planet planet3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h2 id="TI"> CREA TU PROPIO EXOPLANETA</h2>
+     <!-- Boceto de Exoplaneta con menú de personalización -->
+     <div id="exoplanet-container">
+        <canvas id="exoplanetCanvas" width="300" height="300"></canvas>
+        <div id="menu">
+            <h3>Personaliza tu Exoplaneta</h3>
+            <div id="exoplanet-container">
+                <div id="color-selector">
+                    <label for="color1">COLORES DE TU EXOPLANETA:</label>
+                    <label for="color1">Color 1:</label>
+                    <input type="color" id="color1" value="#ff0000">
+                    
+                    <label for="color2">Color 2:</label>
+                    <input type="color" id="color2" value="#00ff00">
+                    
+                    <label for="color3">Color 3:</label>
+                    <input type="color" id="color3" value="#0000ff">
+                    
+                    <label for="color4">Color 4:</label>
+                    <input type="color" id="color4" value="#ffff00">
+                    
+                    <label for="planet-name">Nombre del Exoplaneta:</label>
+                    <input type="text" id="planet-name" placeholder="Nombre">
+                    
+                    <label for="moon">Agregar Luna:</label>
+                    <input type="checkbox" id="moon">
+                    
+                    <button id="draw-btn">Dibujar Exoplaneta</button>
+                    <button id="download-btn">Descargar como Imagen</button>
+                </div>
+        </div>
+    </div>
+    <footer>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
