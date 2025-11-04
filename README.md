@@ -34,7 +34,7 @@ Mi enfoque está en el desarrollo de **aplicaciones eficientes, accesibles y edu
 ---
 
 ### 📫 Contacto  
-✉️ [carlosadrian25@gmail.com](mailto:carlosadrian25@gmail.com)  
+✉️ [carlosadrian25@gmail.com](mailto:tintinytu@gmail.com)  
 💻 [github.com/CarlosAdrian25](https://github.com/CarlosAdrian25)
 
 ---
