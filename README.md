@@ -37,82 +37,70 @@
 
 <hr/>
 
-<h2 align="center" style="color:#FFCB05;">
-  ⚡ Proyectos & Tech Stack
-</h2>
+<h2 align="center" style="color:#FFCB05;">⚡ Proyectos & Tech Stack</h2>
 <p align="center" style="color:#003153;">
   Construyendo y entrenando habilidades como un verdadero trainer
 </p>
 
 <table>
   <tr>
-
-    <!-- COLUMNA IZQUIERDA -->
     <td width="50%" valign="top">
-
-<h3>🚀 Proyectos Destacados</h3>
-
-<table>
-  <tr>
-    <th><b>Proyecto</b></th>
-    <th><b>Descripción</b></th>
-  </tr>
-  <tr>
-    <td>🧭 <b>Copérnico</b></td>
-    <td>App accesible para personas con discapacidad visual</td>
-  </tr>
-  <tr>
-    <td>🖥️ <b>Edu OS</b></td>
-    <td>Sistema operativo Linux educativo y liviano</td>
-  </tr>
-  <tr>
-    <td>📊 <b>Scrum Organizer</b></td>
-    <td>Gestión de tareas y productividad con PyQt5</td>
-  </tr>
-  <tr>
-    <td>🧾 <b>Asistencia RFID</b></td>
-    <td>Flask + MongoDB Atlas + Arduino RFID</td>
-  </tr>
-</table>
-
+      <h3>🚀 Proyectos Destacados</h3>
+      <table>
+        <tr>
+          <th><b>Proyecto</b></th>
+          <th><b>Descripción</b></th>
+        </tr>
+        <tr>
+          <td>🧭 <b>Copérnico</b></td>
+          <td>App accesible para personas con discapacidad visual</td>
+        </tr>
+        <tr>
+          <td>🖥️ <b>Edu OS</b></td>
+          <td>Sistema operativo Linux educativo y liviano</td>
+        </tr>
+        <tr>
+          <td>📊 <b>Scrum Organizer</b></td>
+          <td>Gestión de tareas y productividad con PyQt5</td>
+        </tr>
+        <tr>
+          <td>🧾 <b>Asistencia RFID</b></td>
+          <td>Flask + MongoDB Atlas + Arduino RFID</td>
+        </tr>
+      </table>
     </td>
-
-    <!-- COLUMNA DERECHA -->
     <td width="50%" valign="top">
-
-<h3>🛠️ Frameworks & Herramientas</h3>
-
-<table>
-  <tr>
-    <th><b>Stack</b></th>
-    <th><b>Badge</b></th>
-  </tr>
-  <tr>
-    <td>Flask</td>
-    <td><img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/></td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
-  </tr>
-  <tr>
-    <td>React Native</td>
-    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
-  </tr>
-  <tr>
-    <td>PyQt5</td>
-    <td><img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td>MongoDB</td>
-    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td>Git</td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></td>
-  </tr>
-</table>
-
+      <h3>🛠️ Frameworks & Herramientas</h3>
+      <table>
+        <tr>
+          <th><b>Stack</b></th>
+          <th><b>Badge</b></th>
+        </tr>
+        <tr>
+          <td>Flask</td>
+          <td><img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/></td>
+        </tr>
+        <tr>
+          <td>React</td>
+          <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
+        </tr>
+        <tr>
+          <td>React Native</td>
+          <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
+        </tr>
+        <tr>
+          <td>PyQt5</td>
+          <td><img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white"/></td>
+        </tr>
+        <tr>
+          <td>MongoDB</td>
+          <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
+        </tr>
+        <tr>
+          <td>Git</td>
+          <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
