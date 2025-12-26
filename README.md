@@ -1,80 +1,80 @@
-<h1 align="center">
-  🚀 Hi, I'm <span style="color:#0a66c2;">Adrian | Dev</span>
+<h1 align="center" style="color:#FFCB05;">
+  <b>🚀 Adrian | Dev</b>
 </h1>
-
-<p align="center">
-  <b>Ingeniero en Sistemas en formación</b> · <b>Desarrollador de Software</b><br/>
-  Construyendo soluciones útiles con código, disciplina y visión a largo plazo.
+<p align="center" style="color:#003153;">
+  💻 Ingeniero en Sistemas en formación | 🛠️ Desarrollador de Software
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosAdrian25">
-    <img src="https://img.shields.io/badge/GitHub-CarlosAdrian25-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:carlosadrian25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://img.shields.io/badge/Pikachu-%23FFCB05?style=for-the-badge&logo=pokemon&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Water%20Type-%2300ADEF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electric%20Vibes-%23FFDE00?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
 ---
 
-<h2>🧠 About Me</h2>
-<ul>
-  <li>💡 Apasionado por la <b>ingeniería de software</b> y la <b>innovación tecnológica</b></li>
-  <li>🎯 Enfocado en crear aplicaciones <b>eficientes, accesibles y educativas</b></li>
-  <li>🛠️ Mentalidad de constructor: aprender → aplicar → mejorar</li>
-  <li>📈 Inspirado por la visión de Steve Jobs</li>
-</ul>
+## 🧠 Sobre mí
+
+| 🧠 ¿Quién soy? | 🎯 ¿Qué busco? |
+|---------------|----------------|
+| Ingeniero en Sistemas en formación | Construir software útil y elegante |
+| Amante de la innovación tecnológica | Crear soluciones accesibles y educativas |
+| Fan de la cultura Pokémon 🐾 | Mejorar cada día como dev |
 
 ---
 
-<h2>🔥 Featured Projects</h2>
-<ul>
-  <li>🧭 <b>Copérnico</b> — App accesible para personas con discapacidad visual</li>
-  <li>🖥️ <b>Lightweight Edu OS</b> — Sistema operativo Linux para colegios</li>
-  <li>📊 <b>Scrum Organizer</b> — Productividad y gestión de tareas (PyQt5)</li>
-  <li>🧾 <b>Attendance System</b> — Flask + MongoDB Atlas + RFID</li>
-</ul>
+## 🚀 Proyectos Destacados
+
+| Proyecto | Tech | Descripción |
+|----------|------|-------------|
+| **Copérnico** | Python · Flask | App accesible para personas con discapacidad visual |
+| **Edu OS Liviano** | Linux · Shell | Sistema operativo educativo optimizado para recursos mínimos |
+| **Scrum Organizer** | PyQt5 | App de escritorio para gestión de tareas estilo Kanban |
+| **Asistencia Escolar** | Flask · MongoDB | RFID + backend para control de asistencia |
 
 ---
 
-<h2>⚙️ Tech Stack</h2>
+## ⚡ Tecnologías
 
-<p>
-<b>Languages</b><br/>
-🐍 Python · 🌐 JavaScript · 🐘 PHP · 🐹 Go · ⚙️ C/C++
-</p>
+### 💻 Lenguajes
+| Lenguaje | Color inspirado en Pokémon |
+|----------|-----------------------------|
+| Python | ![#FFCB05](https://via.placeholder.com/15/FFCB05/000000?text=+) |
+| JavaScript | ![#F7DF1E](https://via.placeholder.com/15/F7DF1E/000000?text=+) |
+| PHP | ![#777BB4](https://via.placeholder.com/15/777BB4/000000?text=+) |
+| Go | ![#00ADD8](https://via.placeholder.com/15/00ADD8/000000?text=+) |
+| C/C++ | ![#00599C](https://via.placeholder.com/15/00599C/000000?text=+) |
 
-<p>
-<b>Databases</b><br/>
-🍃 MongoDB · 🐬 MariaDB · 📁 SQLite
-</p>
+### 🛠 Herramientas & Frameworks
 
-<p>
-<b>Frameworks & Tools</b><br/>
-🔥 Flask · ⚛️ React · 📱 React Native · 🖥️ PyQt5<br/>
-🧠 Git · 📝 VS Code · 🐧 Linux · 🖥️ VirtualBox · 🎨 Figma
-</p>
-
----
-
-<h2>🎸 Beyond Code</h2>
-<ul>
-  <li>🎶 Guitarra y música</li>
-  <li>🏃 Running</li>
-  <li>📚 Autoaprendizaje y mejora continua</li>
-</ul>
+| Framework / Tool | Badge |
+|------------------|-------|
+| Flask | <img src="https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=Flask&logoColor=white"/> |
+| React | <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=black"/> |
+| React Native | <img src="https://img.shields.io/badge/React_Native-%2361DAFB?style=flat-square&logo=React&logoColor=black"/> |
+| PyQt5 | <img src="https://img.shields.io/badge/PyQt5-%2300A3E0?style=flat-square&logo=Qt&logoColor=white"/> |
+| Git | <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white"/> |
+| VS Code | <img src="https://img.shields.io/badge/VS_Code-%230078D7?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> |
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 🎸 Hobbies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosAdrian25&show_icons=true&theme=tokyonight"/>
-</p>
+| 🎶 Música | 🏃‍♂️ Deporte | 🧠 Curiosidad |
+|-----------|-------------|--------------|
+| Guitarra y ritmo | Salir a correr | Tecnología y aprendizaje constante |
 
 ---
 
-<p align="center">
-  <i>“Innovation distinguishes between a leader and a follower.” — Steve Jobs</i>
+## 📫 Contacto
+
+| Medio | Info |
+|-------|------|
+| Email | <a href="mailto:carlosadrian25@gmail.com">carlosadrian25@gmail.com</a> |
+| GitHub | <a href="https://github.com/CarlosAdrian25">github.com/CarlosAdrian25</a> |
+
+---
+
+<p align="center" style="color:#3D7DCA;">
+  <i>"Innovation distinguishes a leader from a follower." — Steve Jobs</i>
 </p>
