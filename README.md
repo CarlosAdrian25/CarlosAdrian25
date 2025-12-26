@@ -1,41 +1,61 @@
 <h1 align="center" style="color:#FFCB05;">
   <b>🚀 Adrian | Dev</b>
 </h1>
+
 <p align="center" style="color:#003153;">
   💻 Ingeniero en Sistemas en formación | 🛠️ Desarrollador de Software
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pikachu-%23FFCB05?style=for-the-badge&logo=pokemon&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Water%20Type-%2300ADEF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electric%20Vibes-%23FFDE00?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pokémon%20Style-FFCB05?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Water%20Type-00ADEF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Electric%20Vibes-FFDE00?style=for-the-badge"/>
 </p>
 
----
+<hr/>
 
-## 🧠 Sobre mí
-
-| 🧠 ¿Quién soy? | 🎯 ¿Qué busco? |
-|---------------|----------------|
-| Ingeniero en Sistemas en formación | Construir software útil y elegante |
-| Amante de la innovación tecnológica | Crear soluciones accesibles y educativas |
-| Fan de la cultura Pokémon 🐾 | Mejorar cada día como dev |
-
----
-
-<h2 align="center" style="color:#FFCB05;">⚡ Proyectos & Tech Stack</h2>
+<h2>🧠 Sobre mí</h2>
 
 <table>
   <tr>
+    <th><b>🧠 ¿Quién soy?</b></th>
+    <th><b>🎯 ¿Qué busco?</b></th>
+  </tr>
+  <tr>
+    <td>Ingeniero en Sistemas en formación</td>
+    <td>Construir software útil y elegante</td>
+  </tr>
+  <tr>
+    <td>Amante de la innovación tecnológica</td>
+    <td>Crear soluciones accesibles y educativas</td>
+  </tr>
+  <tr>
+    <td>Fan de la cultura Pokémon 🐾</td>
+    <td>Mejorar cada día como dev</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center" style="color:#FFCB05;">
+  ⚡ Proyectos & Tech Stack
+</h2>
+<p align="center" style="color:#003153;">
+  Construyendo y entrenando habilidades como un verdadero trainer
+</p>
+
+<table>
+  <tr>
+
     <!-- COLUMNA IZQUIERDA -->
     <td width="50%" valign="top">
 
-### 🚀 Proyectos Destacados
+<h3>🚀 Proyectos Destacados</h3>
 
 <table>
   <tr>
-    <th>Proyecto</th>
-    <th>Descripción</th>
+    <th><b>Proyecto</b></th>
+    <th><b>Descripción</b></th>
   </tr>
   <tr>
     <td>🧭 <b>Copérnico</b></td>
@@ -60,12 +80,12 @@
     <!-- COLUMNA DERECHA -->
     <td width="50%" valign="top">
 
-### 🛠️ Frameworks & Herramientas
+<h3>🛠️ Frameworks & Herramientas</h3>
 
 <table>
   <tr>
-    <th>Stack</th>
-    <th>Badge</th>
+    <th><b>Stack</b></th>
+    <th><b>Badge</b></th>
   </tr>
   <tr>
     <td>Flask</td>
@@ -97,24 +117,43 @@
   </tr>
 </table>
 
----
+<hr/>
 
-## 🎸 Hobbies
+<h2>🎸 Hobbies</h2>
 
-| 🎶 Música | 🏃‍♂️ Deporte | 🧠 Curiosidad |
-|-----------|-------------|--------------|
-| Guitarra y ritmo | Salir a correr | Tecnología y aprendizaje constante |
+<table>
+  <tr>
+    <th>🎶 Música</th>
+    <th>🏃‍♂️ Deporte</th>
+    <th>🧠 Curiosidad</th>
+  </tr>
+  <tr>
+    <td>Guitarra y ritmo</td>
+    <td>Salir a correr</td>
+    <td>Tecnología y aprendizaje constante</td>
+  </tr>
+</table>
 
----
+<hr/>
 
-## 📫 Contacto
+<h2>📫 Contacto</h2>
 
-| Medio | Info |
-|-------|------|
-| Email | <a href="mailto:carlosadrian25@gmail.com">carlosadrian25@gmail.com</a> |
-| GitHub | <a href="https://github.com/CarlosAdrian25">github.com/CarlosAdrian25</a> |
+<table>
+  <tr>
+    <th>Medio</th>
+    <th>Info</th>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:carlosadrian25@gmail.com">carlosadrian25@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/CarlosAdrian25">github.com/CarlosAdrian25</a></td>
+  </tr>
+</table>
 
----
+<hr/>
 
 <p align="center" style="color:#3D7DCA;">
   <i>"Innovation distinguishes a leader from a follower." — Steve Jobs</i>
