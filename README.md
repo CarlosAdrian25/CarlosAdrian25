@@ -133,7 +133,7 @@
   </tr>
   <tr>
     <td>Email</td>
-    <td><a href="mailto:tintinytu5@gmail.com">carlosadrian25@gmail.com</a></td>
+    <td><a href="mailto:tintinytu5@gmail.com">tintinytu@gmail.com</a></td>
   </tr>
   <tr>
     <td>GitHub</td>
