@@ -116,7 +116,7 @@
     <th>🧠 Curiosidad</th>
   </tr>
   <tr>
-    <td>Tocar la Guitarra/td>
+    <td>Tocar la Guitarra</td>
     <td>Salir a correr</td>
     <td>Tecnología y aprendizaje constante</td>
   </tr>
