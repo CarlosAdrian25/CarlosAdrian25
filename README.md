@@ -56,10 +56,6 @@
           <td>App accesible para personas con discapacidad visual</td>
         </tr>
         <tr>
-          <td>🖥️ <b>Edu OS</b></td>
-          <td>Sistema operativo Linux educativo y liviano</td>
-        </tr>
-        <tr>
           <td>📊 <b>Scrum Organizer</b></td>
           <td>Gestión de tareas y productividad con PyQt5</td>
         </tr>
